@@ -132,7 +132,7 @@ export default class TemperatureScreen extends React.Component {
         <Header>
           <Left/>
           <Body>
-            <Text fontSize={10}>Humedad</Text>
+            <Text fontSize={10}>Temperatura</Text>
           </Body>
           <Right/>
         </Header>
